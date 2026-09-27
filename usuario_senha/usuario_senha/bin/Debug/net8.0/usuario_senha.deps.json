@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "usuario_senha/1.0.0": {
+        "runtime": {
+          "usuario_senha.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "usuario_senha/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

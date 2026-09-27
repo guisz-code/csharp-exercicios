@@ -1,0 +1,14 @@
+C:\Users\Guilherme17\source\repos\usuario_senha\usuario_senha\bin\Debug\net8.0\usuario_senha.exe
+C:\Users\Guilherme17\source\repos\usuario_senha\usuario_senha\bin\Debug\net8.0\usuario_senha.deps.json
+C:\Users\Guilherme17\source\repos\usuario_senha\usuario_senha\bin\Debug\net8.0\usuario_senha.runtimeconfig.json
+C:\Users\Guilherme17\source\repos\usuario_senha\usuario_senha\bin\Debug\net8.0\usuario_senha.dll
+C:\Users\Guilherme17\source\repos\usuario_senha\usuario_senha\bin\Debug\net8.0\usuario_senha.pdb
+C:\Users\Guilherme17\source\repos\usuario_senha\usuario_senha\obj\Debug\net8.0\usuario_senha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme17\source\repos\usuario_senha\usuario_senha\obj\Debug\net8.0\usuario_senha.AssemblyInfoInputs.cache
+C:\Users\Guilherme17\source\repos\usuario_senha\usuario_senha\obj\Debug\net8.0\usuario_senha.AssemblyInfo.cs
+C:\Users\Guilherme17\source\repos\usuario_senha\usuario_senha\obj\Debug\net8.0\usuario_senha.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme17\source\repos\usuario_senha\usuario_senha\obj\Debug\net8.0\usuario_senha.dll
+C:\Users\Guilherme17\source\repos\usuario_senha\usuario_senha\obj\Debug\net8.0\refint\usuario_senha.dll
+C:\Users\Guilherme17\source\repos\usuario_senha\usuario_senha\obj\Debug\net8.0\usuario_senha.pdb
+C:\Users\Guilherme17\source\repos\usuario_senha\usuario_senha\obj\Debug\net8.0\usuario_senha.genruntimeconfig.cache
+C:\Users\Guilherme17\source\repos\usuario_senha\usuario_senha\obj\Debug\net8.0\ref\usuario_senha.dll

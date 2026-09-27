@@ -1,0 +1,14 @@
+C:\Users\Guilherme17\source\repos\UniBurguer\UniBurguer\bin\Debug\net8.0\UniBurguer.exe
+C:\Users\Guilherme17\source\repos\UniBurguer\UniBurguer\bin\Debug\net8.0\UniBurguer.deps.json
+C:\Users\Guilherme17\source\repos\UniBurguer\UniBurguer\bin\Debug\net8.0\UniBurguer.runtimeconfig.json
+C:\Users\Guilherme17\source\repos\UniBurguer\UniBurguer\bin\Debug\net8.0\UniBurguer.dll
+C:\Users\Guilherme17\source\repos\UniBurguer\UniBurguer\bin\Debug\net8.0\UniBurguer.pdb
+C:\Users\Guilherme17\source\repos\UniBurguer\UniBurguer\obj\Debug\net8.0\UniBurguer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme17\source\repos\UniBurguer\UniBurguer\obj\Debug\net8.0\UniBurguer.AssemblyInfoInputs.cache
+C:\Users\Guilherme17\source\repos\UniBurguer\UniBurguer\obj\Debug\net8.0\UniBurguer.AssemblyInfo.cs
+C:\Users\Guilherme17\source\repos\UniBurguer\UniBurguer\obj\Debug\net8.0\UniBurguer.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme17\source\repos\UniBurguer\UniBurguer\obj\Debug\net8.0\UniBurguer.dll
+C:\Users\Guilherme17\source\repos\UniBurguer\UniBurguer\obj\Debug\net8.0\refint\UniBurguer.dll
+C:\Users\Guilherme17\source\repos\UniBurguer\UniBurguer\obj\Debug\net8.0\UniBurguer.pdb
+C:\Users\Guilherme17\source\repos\UniBurguer\UniBurguer\obj\Debug\net8.0\UniBurguer.genruntimeconfig.cache
+C:\Users\Guilherme17\source\repos\UniBurguer\UniBurguer\obj\Debug\net8.0\ref\UniBurguer.dll

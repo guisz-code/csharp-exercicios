@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Guilherme17\\source\\repos\\UniBurguer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD17974B-6762-4292-BA34-7FDE776CB3B3}|UniBurguer\\UniBurguer.csproj|c:\\users\\guilherme17\\source\\repos\\uniburguer\\uniburguer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD17974B-6762-4292-BA34-7FDE776CB3B3}|UniBurguer\\UniBurguer.csproj|solutionrelative:uniburguer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme17\\source\\repos\\UniBurguer\\UniBurguer\\Program.cs",
+              "RelativeDocumentMoniker": "UniBurguer\\Program.cs",
+              "ToolTip": "C:\\Users\\Guilherme17\\source\\repos\\UniBurguer\\UniBurguer\\Program.cs",
+              "RelativeToolTip": "UniBurguer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T22:53:44.891Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

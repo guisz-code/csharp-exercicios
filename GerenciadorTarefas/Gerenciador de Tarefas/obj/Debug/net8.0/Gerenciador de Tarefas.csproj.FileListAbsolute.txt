@@ -1,0 +1,14 @@
+C:\Users\Guilherme17\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\net8.0\Gerenciador de Tarefas.exe
+C:\Users\Guilherme17\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\net8.0\Gerenciador de Tarefas.deps.json
+C:\Users\Guilherme17\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\net8.0\Gerenciador de Tarefas.runtimeconfig.json
+C:\Users\Guilherme17\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\net8.0\Gerenciador de Tarefas.dll
+C:\Users\Guilherme17\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\bin\Debug\net8.0\Gerenciador de Tarefas.pdb
+C:\Users\Guilherme17\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\obj\Debug\net8.0\Gerenciador de Tarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme17\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\obj\Debug\net8.0\Gerenciador de Tarefas.AssemblyInfoInputs.cache
+C:\Users\Guilherme17\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\obj\Debug\net8.0\Gerenciador de Tarefas.AssemblyInfo.cs
+C:\Users\Guilherme17\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\obj\Debug\net8.0\Gerenciador de Tarefas.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme17\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\obj\Debug\net8.0\Gerenciador de Tarefas.dll
+C:\Users\Guilherme17\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\obj\Debug\net8.0\refint\Gerenciador de Tarefas.dll
+C:\Users\Guilherme17\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\obj\Debug\net8.0\Gerenciador de Tarefas.pdb
+C:\Users\Guilherme17\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\obj\Debug\net8.0\Gerenciador de Tarefas.genruntimeconfig.cache
+C:\Users\Guilherme17\source\repos\Gerenciador de Tarefas\Gerenciador de Tarefas\obj\Debug\net8.0\ref\Gerenciador de Tarefas.dll

@@ -1,0 +1,14 @@
+C:\Users\Guilherme17\source\repos\CaloriasConsumidas\CaloriasConsumidas\bin\Debug\net8.0\CaloriasConsumidas.exe
+C:\Users\Guilherme17\source\repos\CaloriasConsumidas\CaloriasConsumidas\bin\Debug\net8.0\CaloriasConsumidas.deps.json
+C:\Users\Guilherme17\source\repos\CaloriasConsumidas\CaloriasConsumidas\bin\Debug\net8.0\CaloriasConsumidas.runtimeconfig.json
+C:\Users\Guilherme17\source\repos\CaloriasConsumidas\CaloriasConsumidas\bin\Debug\net8.0\CaloriasConsumidas.dll
+C:\Users\Guilherme17\source\repos\CaloriasConsumidas\CaloriasConsumidas\bin\Debug\net8.0\CaloriasConsumidas.pdb
+C:\Users\Guilherme17\source\repos\CaloriasConsumidas\CaloriasConsumidas\obj\Debug\net8.0\CaloriasConsumidas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme17\source\repos\CaloriasConsumidas\CaloriasConsumidas\obj\Debug\net8.0\CaloriasConsumidas.AssemblyInfoInputs.cache
+C:\Users\Guilherme17\source\repos\CaloriasConsumidas\CaloriasConsumidas\obj\Debug\net8.0\CaloriasConsumidas.AssemblyInfo.cs
+C:\Users\Guilherme17\source\repos\CaloriasConsumidas\CaloriasConsumidas\obj\Debug\net8.0\CaloriasConsumidas.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme17\source\repos\CaloriasConsumidas\CaloriasConsumidas\obj\Debug\net8.0\CaloriasConsumidas.dll
+C:\Users\Guilherme17\source\repos\CaloriasConsumidas\CaloriasConsumidas\obj\Debug\net8.0\refint\CaloriasConsumidas.dll
+C:\Users\Guilherme17\source\repos\CaloriasConsumidas\CaloriasConsumidas\obj\Debug\net8.0\CaloriasConsumidas.pdb
+C:\Users\Guilherme17\source\repos\CaloriasConsumidas\CaloriasConsumidas\obj\Debug\net8.0\CaloriasConsumidas.genruntimeconfig.cache
+C:\Users\Guilherme17\source\repos\CaloriasConsumidas\CaloriasConsumidas\obj\Debug\net8.0\ref\CaloriasConsumidas.dll

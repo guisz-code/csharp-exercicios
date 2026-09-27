@@ -1,0 +1,14 @@
+C:\Users\Guilherme17\source\repos\soma_int\soma_int\bin\Debug\net8.0\soma_int.exe
+C:\Users\Guilherme17\source\repos\soma_int\soma_int\bin\Debug\net8.0\soma_int.deps.json
+C:\Users\Guilherme17\source\repos\soma_int\soma_int\bin\Debug\net8.0\soma_int.runtimeconfig.json
+C:\Users\Guilherme17\source\repos\soma_int\soma_int\bin\Debug\net8.0\soma_int.dll
+C:\Users\Guilherme17\source\repos\soma_int\soma_int\bin\Debug\net8.0\soma_int.pdb
+C:\Users\Guilherme17\source\repos\soma_int\soma_int\obj\Debug\net8.0\soma_int.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme17\source\repos\soma_int\soma_int\obj\Debug\net8.0\soma_int.AssemblyInfoInputs.cache
+C:\Users\Guilherme17\source\repos\soma_int\soma_int\obj\Debug\net8.0\soma_int.AssemblyInfo.cs
+C:\Users\Guilherme17\source\repos\soma_int\soma_int\obj\Debug\net8.0\soma_int.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme17\source\repos\soma_int\soma_int\obj\Debug\net8.0\soma_int.dll
+C:\Users\Guilherme17\source\repos\soma_int\soma_int\obj\Debug\net8.0\refint\soma_int.dll
+C:\Users\Guilherme17\source\repos\soma_int\soma_int\obj\Debug\net8.0\soma_int.pdb
+C:\Users\Guilherme17\source\repos\soma_int\soma_int\obj\Debug\net8.0\soma_int.genruntimeconfig.cache
+C:\Users\Guilherme17\source\repos\soma_int\soma_int\obj\Debug\net8.0\ref\soma_int.dll

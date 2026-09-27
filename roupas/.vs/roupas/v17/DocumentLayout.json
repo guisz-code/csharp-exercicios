@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Guilherme17\\source\\repos\\roupas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DDA0D0-C8A5-42C7-870C-217F87B6AC1C}|roupas\\roupas.csproj|c:\\users\\guilherme17\\source\\repos\\roupas\\roupas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DDA0D0-C8A5-42C7-870C-217F87B6AC1C}|roupas\\roupas.csproj|solutionrelative:roupas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme17\\source\\repos\\roupas\\roupas\\Program.cs",
+              "RelativeDocumentMoniker": "roupas\\Program.cs",
+              "ToolTip": "C:\\Users\\Guilherme17\\source\\repos\\roupas\\roupas\\Program.cs",
+              "RelativeToolTip": "roupas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T14:47:54.768Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

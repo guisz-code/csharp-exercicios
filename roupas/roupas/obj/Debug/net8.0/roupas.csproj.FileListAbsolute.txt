@@ -1,0 +1,14 @@
+C:\Users\Guilherme17\source\repos\roupas\roupas\obj\Debug\net8.0\roupas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme17\source\repos\roupas\roupas\obj\Debug\net8.0\roupas.AssemblyInfoInputs.cache
+C:\Users\Guilherme17\source\repos\roupas\roupas\obj\Debug\net8.0\roupas.AssemblyInfo.cs
+C:\Users\Guilherme17\source\repos\roupas\roupas\obj\Debug\net8.0\roupas.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme17\source\repos\roupas\roupas\bin\Debug\net8.0\roupas.exe
+C:\Users\Guilherme17\source\repos\roupas\roupas\bin\Debug\net8.0\roupas.deps.json
+C:\Users\Guilherme17\source\repos\roupas\roupas\bin\Debug\net8.0\roupas.runtimeconfig.json
+C:\Users\Guilherme17\source\repos\roupas\roupas\bin\Debug\net8.0\roupas.dll
+C:\Users\Guilherme17\source\repos\roupas\roupas\bin\Debug\net8.0\roupas.pdb
+C:\Users\Guilherme17\source\repos\roupas\roupas\obj\Debug\net8.0\roupas.dll
+C:\Users\Guilherme17\source\repos\roupas\roupas\obj\Debug\net8.0\refint\roupas.dll
+C:\Users\Guilherme17\source\repos\roupas\roupas\obj\Debug\net8.0\roupas.pdb
+C:\Users\Guilherme17\source\repos\roupas\roupas\obj\Debug\net8.0\roupas.genruntimeconfig.cache
+C:\Users\Guilherme17\source\repos\roupas\roupas\obj\Debug\net8.0\ref\roupas.dll
